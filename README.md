@@ -8,6 +8,8 @@ https://youtu.be/9lsSSPnF67Q
 - Python 3.10 installation
 - git installation
 - vscode installation (highly recommended)
+- ffmpeg installation
+- Cuda Capable Nvidia GPU (highly recommended)
 
 ## Installation and basic usage
 1. Clone the repository (repo)
